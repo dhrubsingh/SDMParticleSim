@@ -1,0 +1,16 @@
+Running simulation for ../particle_files/particles_675 (675 particles)
+Simulation completed in 0.576362 seconds.
+Running simulation for ../particle_files/particles_1250 (1250 particles)
+Simulation completed in 1.78102 seconds.
+Running simulation for ../particle_files/particles_2500 (2500 particles)
+Simulation completed in 5.55155 seconds.
+Running simulation for ../particle_files/particles_5000 (5000 particles)
+Simulation completed in 20.0409 seconds.
+Running simulation for ../particle_files/particles_10000 (10000 particles)
+Simulation completed in 78.0316 seconds.
+Running simulation for ../particle_files/particles_25000 (25000 particles)
+Simulation completed in 484.195 seconds.
+Running simulation for ../particle_files/particles_50000 (50000 particles)
+Simulation completed in 1957.05 seconds.
+Running simulation for ../particle_files/particles_100000 (100000 particles)
+Simulation completed in 7751.61 seconds.
